@@ -22,12 +22,12 @@ export const products = [
       }
     ],
     img: [
-      'public/armchairs/nort_cozy/nort_cozy_mobile.jpg',
-      'public/armchairs/nort_cozy/nort_cozy_mobile@2x.jpg',
-      'public/armchairs/nort_cozy/nort_cozy_tablet.jpg',
-      'public/armchairs/nort_cozy/nort_cozy_tablet@2x.jpg',
-      'public/armchairs/nort_cozy/nort_cozy_desktop.jpg',
-      'public/armchairs/nort_cozy/nort_cozy_desktop@2x.jpg'
+      '/armchairs/nort_cozy/nort_cozy_mobile.jpg',
+      '/armchairs/nort_cozy/nort_cozy_mobile@2x.jpg',
+      '/armchairs/nort_cozy/nort_cozy_tablet.jpg',
+      '/armchairs/nort_cozy/nort_cozy_tablet@2x.jpg',
+      '/armchairs/nort_cozy/nort_cozy_desktop.jpg',
+      '/armchairs/nort_cozy/nort_cozy_desktop@2x.jpg'
     ],
     soft: true,
   },
@@ -50,12 +50,12 @@ export const products = [
       }
     ],
     img: [
-      'public/armchairs/pikont/pikont_mobile.jpg',
-      'public/armchairs/pikont/pikont_mobile@2x.jpg',
-      'public/armchairs/pikont/pikont_tablet.jpg',
-      'public/armchairs/pikont/pikont_tablet@2x.jpg',
-      'public/armchairs/pikont/pikont_desktop.jpg',
-      'public/armchairs/pikont/pikont_desktop@2x.jpg'
+      '/armchairs/pikont/pikont_mobile.jpg',
+      '/armchairs/pikont/pikont_mobile@2x.jpg',
+      '/armchairs/pikont/pikont_tablet.jpg',
+      '/armchairs/pikont/pikont_tablet@2x.jpg',
+      '/armchairs/pikont/pikont_desktop.jpg',
+      '/armchairs/pikont/pikont_desktop@2x.jpg'
     ],
     designed: true,
   },
@@ -77,12 +77,12 @@ export const products = [
       }
     ],
     img: [
-      'public/armchairs/heavy_suite/heavy_suite_mobile.jpg',
-      'public/armchairs/heavy_suite/heavy_suite_mobile@2x.jpg',
-      'public/armchairs/heavy_suite/heavy_suite_tablet.jpg',
-      'public/armchairs/heavy_suite/heavy_suite_tablet@2x.jpg',
-      'public/armchairs/heavy_suite/heavy_suite_desktop.jpg',
-      'public/armchairs/heavy_suite/heavy_suite_desktop@2x.jpg'
+      '/armchairs/heavy_suite/heavy_suite_mobile.jpg',
+      '/armchairs/heavy_suite/heavy_suite_mobile@2x.jpg',
+      '/armchairs/heavy_suite/heavy_suite_tablet.jpg',
+      '/armchairs/heavy_suite/heavy_suite_tablet@2x.jpg',
+      '/armchairs/heavy_suite/heavy_suite_desktop.jpg',
+      '/armchairs/heavy_suite/heavy_suite_desktop@2x.jpg'
     ],
     designed: true,
     soft: true,
@@ -111,12 +111,12 @@ export const products = [
       }
     ],
     img: [
-      'public/armchairs/sea_breeze/sea_breeze_mobile.jpg',
-      'public/armchairs/sea_breeze/sea_breeze_mobile@2x.jpg',
-      'public/armchairs/sea_breeze/sea_breeze_tablet.jpg',
-      'public/armchairs/sea_breeze/sea_breeze_tablet@2x.jpg',
-      'public/armchairs/sea_breeze/sea_breeze_desktop.jpg',
-      'public/armchairs/sea_breeze/sea_breeze_desktop@2x.jpg'
+      '/armchairs/sea_breeze/sea_breeze_mobile.jpg',
+      '/armchairs/sea_breeze/sea_breeze_mobile@2x.jpg',
+      '/armchairs/sea_breeze/sea_breeze_tablet.jpg',
+      '/armchairs/sea_breeze/sea_breeze_tablet@2x.jpg',
+      '/armchairs/sea_breeze/sea_breeze_desktop.jpg',
+      '/armchairs/sea_breeze/sea_breeze_desktop@2x.jpg'
     ]
   },
   {
@@ -138,12 +138,12 @@ export const products = [
       }
     ],
     img: [
-      'public/armchairs/mafiafamily/mafiafamily_mobile.jpg',
-      'public/armchairs/mafiafamily/mafiafamily_mobile@2x.jpg',
-      'public/armchairs/mafiafamily/mafiafamily_tablet.jpg',
-      'public/armchairs/mafiafamily/mafiafamily_tablet@2x.jpg',
-      'public/armchairs/mafiafamily/mafiafamily_desktop.jpg',
-      'public/armchairs/mafiafamily/mafiafamily_desktop@2x.jpg'
+      '/armchairs/mafiafamily/mafiafamily_mobile.jpg',
+      '/armchairs/mafiafamily/mafiafamily_mobile@2x.jpg',
+      '/armchairs/mafiafamily/mafiafamily_tablet.jpg',
+      '/armchairs/mafiafamily/mafiafamily_tablet@2x.jpg',
+      '/armchairs/mafiafamily/mafiafamily_desktop.jpg',
+      '/armchairs/mafiafamily/mafiafamily_desktop@2x.jpg'
     ],
     soft: true,
   },
@@ -165,12 +165,12 @@ export const products = [
       }
     ],
     img: [
-      'public/armchairs/noilfo/noilfo_mobile.jpg',
-      'public/armchairs/noilfo/noilfo_mobile@2x.jpg',
-      'public/armchairs/noilfo/noilfo_tablet.jpg',
-      'public/armchairs/noilfo/noilfo_tablet@2x.jpg',
-      'public/armchairs/noilfo/noilfo_desktop.jpg',
-      'public/armchairs/noilfo/noilfo_desktop@2x.jpg'
+      '/armchairs/noilfo/noilfo_mobile.jpg',
+      '/armchairs/noilfo/noilfo_mobile@2x.jpg',
+      '/armchairs/noilfo/noilfo_tablet.jpg',
+      '/armchairs/noilfo/noilfo_tablet@2x.jpg',
+      '/armchairs/noilfo/noilfo_desktop.jpg',
+      '/armchairs/noilfo/noilfo_desktop@2x.jpg'
     ]
   },
   {
@@ -191,12 +191,12 @@ export const products = [
       }
     ],
     img: [
-      'public/armchairs/sunbot/sunbot_mobile.jpg',
-      'public/armchairs/sunbot/sunbot_mobile@2x.jpg',
-      'public/armchairs/sunbot/sunbot_tablet.jpg',
-      'public/armchairs/sunbot/sunbot_tablet@2x.jpg',
-      'public/armchairs/sunbot/sunbot_desktop.jpg',
-      'public/armchairs/sunbot/sunbot_desktop@2x.jpg'
+      '/armchairs/sunbot/sunbot_mobile.jpg',
+      '/armchairs/sunbot/sunbot_mobile@2x.jpg',
+      '/armchairs/sunbot/sunbot_tablet.jpg',
+      '/armchairs/sunbot/sunbot_tablet@2x.jpg',
+      '/armchairs/sunbot/sunbot_desktop.jpg',
+      '/armchairs/sunbot/sunbot_desktop@2x.jpg'
     ]
   },
   {
@@ -218,12 +218,12 @@ export const products = [
       }
     ],
     img: [
-      'public/armchairs/dromsa/dromsa_mobile.jpg',
-      'public/armchairs/dromsa/dromsa_mobile@2x.jpg',
-      'public/armchairs/dromsa/dromsa_tablet.jpg',
-      'public/armchairs/dromsa/dromsa_tablet@2x.jpg',
-      'public/armchairs/dromsa/dromsa_desktop.jpg',
-      'public/armchairs/dromsa/dromsa_desktop@2x.jpg'
+      '/armchairs/dromsa/dromsa_mobile.jpg',
+      '/armchairs/dromsa/dromsa_mobile@2x.jpg',
+      '/armchairs/dromsa/dromsa_tablet.jpg',
+      '/armchairs/dromsa/dromsa_tablet@2x.jpg',
+      '/armchairs/dromsa/dromsa_desktop.jpg',
+      '/armchairs/dromsa/dromsa_desktop@2x.jpg'
     ],
     designed: true,
     noLegs: true
